@@ -1,0 +1,14 @@
+body {
+    padding: 20px;
+}
+#one {
+    text-indent: 20px;
+}
+
+#two {
+    text-indent: 40px;
+}
+
+#three {
+    text-indent: 60px;
+}
